@@ -1,0 +1,4 @@
+gradio==4.22.0
+openai==1.2.4
+vobject==0.9.7
+twilio==9.0.3
