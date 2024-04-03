@@ -12,8 +12,6 @@ twilio_number = os.environ.get('TWILIO_NUMBER')
 
 vcf_file_path = '<path_to_vcf_file>'
 
-api_key = "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"
-
 class Bot():
     flag = 0  # Declare flag as a class variable
     @staticmethod
