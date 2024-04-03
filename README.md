@@ -8,7 +8,7 @@ ChatGPT is a chatbot powered by OpenAI's GPT-4 model. It is designed to discuss 
 ## Gemini
 Gemini is another chatbot implementation utilizing Vertex AI's Generative Models. Like ChatGPT, Gemini engages in conversations based on a given prompt. It is specifically trained to recognize images and provide relevant responses. Users can interact with Gemini by typing messages or uploading images. Similar to ChatGPT, Gemini also supports sending SMS notifications to contacts.
 
-# Chat Recommendation System with MongoDB Setup
+## Project Tutorial Recommendation System with MongoDB Setup
 
 This project consists of two Python scripts, `chatgptRecommend.py` and `geminiRecommend.py`, implementing a chat recommendation system using different AI models. The `chatgptRecommend.py` script utilizes OpenAI's GPT-4 model, while `geminiRecommend.py` employs the Gemini generative model by Vertex AI. The system allows users to interact with a chatbot, which provides recommendations related to Internet of Things (IoT) based on the conversation.
 
